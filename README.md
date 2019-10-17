@@ -1,2 +1,2 @@
 # Array-Biggest-C
-A simple C program to find and print the biggest element in an array.
+Simple C programs that finds and prints the biggest element in an array and another program that converts variables between int and string.
